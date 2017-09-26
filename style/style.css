@@ -1,0 +1,24 @@
+.mouse {
+  float: left;
+  left: -250px;
+  top: 50px;
+  margin-top:150px;
+  margin-right: 5px;
+  width:300px;
+  height:300px;
+  position:absolute;
+}
+
+.introduction h1, .introduction p {
+	bottom: -150px;
+	float:bottom;
+	text-align:center;
+	white-space: nowrap;
+}
+
+body {
+	background-image: url("../images/hardwood.png");
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-size: 1920px 630px;
+}
